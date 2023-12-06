@@ -4,9 +4,9 @@ A Java application that conceals messages within images, ensuring both security 
 
 >> Comprises several key components represented by individual files 📃
 
-<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/splash.png" height = 300, width = 425, align=left>
+<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/splash.png" height = 200, width = 325, align=left>
 
-<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/main.png" height = 300, width = 425>
+<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/main.png" height = 200, width = 325>
 
 ## Steganographic Algorithm:
 
@@ -25,9 +25,9 @@ pixel's LSB
 
 ## 🔐 Encoder and Decoder 🖊
 
-<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/encode.png" height = 300, width = 425, align=left>
+<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/encode.png" height = 200, width = 325, align=left>
 
-<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/decode.png" height = 300, width = 425>
+<img src= "https://github.com/prakash2903/CamoPixer/blob/main/CamoPixer/pictures/decode.png" height = 200, width = 325>
 
 
 
